@@ -11,4 +11,4 @@ Otherwise, an instance of Apache with PHP may be installed locally.
 ## Clone The Project
 To clone the project, use the following console command line:
 
-`git clone https://github.com/DanG1968/LifetrackMedicalDemo --branch=master`
+`git clone https://github.com/DanG1968/LifetrackMedicalSystemsDemo --branch=master`
